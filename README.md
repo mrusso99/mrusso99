@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mrusso99
 - 👀 I’m interested in Open Source Software
-- 🌱 I’m currently learning Wazuh
 - 💞️ I’m looking to collaborate on Open Source Projects
 
 
